@@ -1,5 +1,5 @@
 Preview link:
-https://htmlpreview.github.io/?https://github.com/Rian-Sanjaya/GenerateQuoteMachine/blob/master/genQuote.html
+https://rawgit.com/Rian-Sanjaya/GenerateQuoteMachine/master/genQuote.html
 
 Doing a project for freecodecamp.
 
